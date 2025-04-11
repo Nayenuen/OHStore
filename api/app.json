@@ -1,0 +1,73 @@
+[
+    {
+    "precio":120,
+    "nombre": "Lightsticks",
+    "id":1,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa.jpg"
+
+    },
+    {
+    "precio":140,
+    "nombre": "Albumes",
+    "id":2,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa2.jpg"
+    },
+    {
+    "precio":200,
+    "nombre": "Peluches",
+    "id":3,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa3.jpg"
+        
+    },
+    {
+    "precio":120,
+    "nombre": "Maquillaje",
+    "id":4,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa4.jpg"
+            
+    },
+    {
+    "precio":120,
+    "nombre": "Snacks",
+    "id":5,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon.jpg"
+                
+    },
+    {
+    "precio":120,
+    "nombre": "Revistas",
+    "id":6,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon2.jpg"
+                    
+    },
+    {
+    "precio":120,
+    "nombre": "Coleccionables",
+    "id":7,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/short.jpg"
+                        
+    },
+    {
+    "precio":120,
+    "nombre": "Preventas",
+    "id":8,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/short2.jpg"
+                            
+    },
+    {
+        "precio":120,
+        "nombre": "Limitado",
+        "id":9,
+        "thumbnailUrl":"http://maquinita.atwebpages.com/img/short2.jpg"
+                                
+        },
+    {
+    "precio":120,
+    "nombre": "Proximamente",
+    "id":10,
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/short3.jpg"
+                                
+    }
+
+
+]
